@@ -24,4 +24,4 @@ It prompts for manager's password for price increases of over 2%
 Creates Quote email with professionally formatted Excel spreadsheet attachment for vendor and prefills vendor’s name and email from information in Ecometry system.  Email subject contains a pre-validated PO number. Email body included company standard language and purchasing clerk company standard-compliant signature.
 Displays PO as html documents before submitting to Ecometry
 Records email sent, Excel document, PO html file on file system
-Enters new PO in Ecometry, so it appears on the items' histories.
+Enters new PO in Ecometry, so it appears on the items' histories. 
