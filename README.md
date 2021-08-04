@@ -1,6 +1,8 @@
 # ecometry-POSys-step1-ImportSuggestedBuyData
 Automatically runs three Red Prairie Ecometry recommended buy reports, parses the resulting text files, enters the parsed items into a working database, and emails managers the results.
 
+The entire Purchase Order automation system for the Red Prairie Ecometry ecommerce platform is composed of these three programs:
+
 ImportSuggestedBuyData (this program)
 
 Automatically runs three Ecometry recommended buy reports for A1, C3 and R1 items.
